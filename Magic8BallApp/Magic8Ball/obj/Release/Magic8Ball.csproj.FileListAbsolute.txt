@@ -1,0 +1,9 @@
+C:\Users\cheve\source\repos\Magic8BallApp\Magic8Ball\bin\Release\Magic8Ball.exe.config
+C:\Users\cheve\source\repos\Magic8BallApp\Magic8Ball\bin\Release\Magic8Ball.exe
+C:\Users\cheve\source\repos\Magic8BallApp\Magic8Ball\bin\Release\Magic8Ball.pdb
+C:\Users\cheve\source\repos\Magic8BallApp\Magic8Ball\obj\Release\Magic8Ball.Form1.resources
+C:\Users\cheve\source\repos\Magic8BallApp\Magic8Ball\obj\Release\Magic8Ball.Properties.Resources.resources
+C:\Users\cheve\source\repos\Magic8BallApp\Magic8Ball\obj\Release\Magic8Ball.csproj.GenerateResource.cache
+C:\Users\cheve\source\repos\Magic8BallApp\Magic8Ball\obj\Release\Magic8Ball.csproj.CoreCompileInputs.cache
+C:\Users\cheve\source\repos\Magic8BallApp\Magic8Ball\obj\Release\Magic8Ball.exe
+C:\Users\cheve\source\repos\Magic8BallApp\Magic8Ball\obj\Release\Magic8Ball.pdb
